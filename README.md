@@ -1,12 +1,21 @@
-# React + Vite
+# 👽 Rick and Morty - Galería Interdimensional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web creada como prueba técnica para CubiQ. Permite explorar personajes de Rick and Morty e interactuar con ellos mediante votos de Like y Dislike.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- React + Vite
+- JavaScript (ES6+)
+- Axios (consumo API)
+- localStorage (persistencia de votos)
+- Estilos personalizados en CSS-in-JS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Instalación del proyecto
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/Diegoazl/visor-rickmorty.git
